@@ -1,1 +1,1 @@
-# week-three-python-assignment
+This Python script calculates the final price of an item after applying a discount, only if the discount is 20% or higher. This script is useful for scenarios like shopping or sales calculations where discounts are applied conditionally. It emphasizes input validation, logical decision-making, and user-friendly output.
